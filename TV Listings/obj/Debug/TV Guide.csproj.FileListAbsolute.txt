@@ -1,0 +1,19 @@
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\TV Guide.dll
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\TV Guide.pdb
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\AppManifest.xaml
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\TV_Guide_Release_AnyCPU.xap
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\TV Guide.csprojResolveAssemblyReference.cache
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\App.g.cs
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\ChannelPage.g.cs
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\MainPage.g.cs
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\MoviesPage.g.cs
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\OnNowPage.g.cs
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\TV Guide.g.resources
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\TV_Guide.Resources.AppResources.resources
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\TV Guide.csproj.GenerateResource.Cache
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\TV Guide.dll
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\TV Guide.pdb
+C:\Users\Seán\Documents\Visual Studio 2012\Projects\TV Listings\TV Listings\obj\Debug\XapCacheFile.xml
