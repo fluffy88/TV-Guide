@@ -96,12 +96,6 @@
     <Compile Include="ChannelPage.xaml.cs">
       <DependentUpon>ChannelPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Classes\SortedObservableCollection.cs" />
-    <Compile Include="JSONModels\ChannelListModel.cs" />
-    <Compile Include="JSONModels\MoviesModel.cs" />
-    <Compile Include="JSONModels\OnNowModel.cs" />
-    <Compile Include="JSONModels\ProgramListModel.cs" />
-    <Compile Include="JSONModels\ProgramModel.cs" />
     <Compile Include="LocalizedStrings.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -118,12 +112,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
-    <Compile Include="Utils\HttpUtils.cs" />
     <Compile Include="Utils\LoadingUtil.cs" />
-    <Compile Include="ViewModels\ChannelViewModel.cs" />
-    <Compile Include="ViewModels\MoviesViewModel.cs" />
-    <Compile Include="ViewModels\OnNowViewModel.cs" />
-    <Compile Include="ViewModels\TVListingViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
