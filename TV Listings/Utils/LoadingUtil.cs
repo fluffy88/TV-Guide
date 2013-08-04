@@ -9,7 +9,7 @@ using System.Windows.Data;
 
 namespace TV_Guide.Utils
 {
-    class LoadingUtil
+    public class LoadingUtil
     {
         public static void SetupLoader(DependencyObject page, Object _viewModel, String text)
         {
